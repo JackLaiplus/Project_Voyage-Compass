@@ -22,6 +22,12 @@
 | city_web/          | Flask 顯示 HTML 頁面 |
 | city_loader/   | ETL 資料處理容器 |
 
+### 📊 城市資料視覺化
+
+<p align="center">
+  <img src="assets/city_data_visualization.png" alt="Batch Inference Results" width="90%">
+</p>
+
 ## 啟動方式
 
 ```bash
